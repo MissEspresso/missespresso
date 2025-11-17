@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hiya! I'm Anne, the artist and coder behind all this stuff!
 
 <!--
 **MissEspresso/missespresso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+One example of something I've worked on is...
+
+# Steam Player Count Checker (with AppID search)
+An application that pulls up records of the player count of any given game, with a few preset games put on the page.
