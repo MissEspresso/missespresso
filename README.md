@@ -14,11 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-One example of something I've worked on is...
+A couple examples of projects I've worked on are...
 
 # Steam Player Count Checker (with AppID search)
 An application that pulls up records of the player count of any given game, with a few preset games put on the page.
 <img width="1280" height="1018" alt="Screenshot 2025-11-02 233502" src="https://github.com/user-attachments/assets/fe4f179a-f2f0-4588-a33f-4f7bb40dca0d" />
 <img width="1236" height="1024" alt="Screenshot 2025-11-02 233523" src="https://github.com/user-attachments/assets/2340db6c-d269-4fc1-9ba8-df3fafa4cc6b" />
+
+# AI, The Environment, and You
+A short twine story through the lens of a conversation about AI.
+<img width="1286" height="638" alt="Screenshot 2025-11-16 232146" src="https://github.com/user-attachments/assets/e080a5b8-5845-442e-af73-88c4c6fd9608" />
+<img width="1379" height="707" alt="Screenshot 2025-11-16 232223" src="https://github.com/user-attachments/assets/58098a0f-12f7-4405-80e9-931f1eb6ca6e" />
 
 
