@@ -18,3 +18,7 @@ One example of something I've worked on is...
 
 # Steam Player Count Checker (with AppID search)
 An application that pulls up records of the player count of any given game, with a few preset games put on the page.
+<img width="1280" height="1018" alt="Screenshot 2025-11-02 233502" src="https://github.com/user-attachments/assets/fe4f179a-f2f0-4588-a33f-4f7bb40dca0d" />
+<img width="1236" height="1024" alt="Screenshot 2025-11-02 233523" src="https://github.com/user-attachments/assets/2340db6c-d269-4fc1-9ba8-df3fafa4cc6b" />
+
+
